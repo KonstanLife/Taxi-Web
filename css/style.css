@@ -120,7 +120,7 @@ header .fa-bars {
   justify-content: center;
   align-items: center;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../img/city.jpg) no-repeat center/cover;
+    url("../img/city.jpg") no-repeat center/cover;
 }
 
 .home .content {
@@ -216,7 +216,7 @@ header .fa-bars {
 .service {
   width: 100%;
   min-height: 100vh;
-  background: url(../img/city2.jpg) no-repeat center/cover;
+  background: url("../img/city2.jpg") no-repeat center/cover;
 }
 
 .service .box-container {
@@ -443,4 +443,5 @@ header .fa-bars {
     font-size: 50%;
   }
 }
+
 
